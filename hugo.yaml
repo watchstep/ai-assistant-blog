@@ -25,7 +25,7 @@ menu:
       pageRef: /community
       weight: 2
     - name: Issue ↗
-      url: "https://github.com/watchstep/ai-assitant-blog/issues"
+      url: "https://github.com/watchstep/ai-assistant-blog/issues"
       weight: 3
     - name: Search
       weight: 4
@@ -33,7 +33,7 @@ menu:
         type: search
     - name: GitHub
       weight: 5
-      url: "https://github.com/watchstep/ai-assitant-blog"
+      url: "https://github.com/watchstep/ai-assistant-blog"
       params:
         icon: github
 
@@ -48,4 +48,4 @@ params:
 
   editURL:
     enable: true
-    base: "https://github.com/watchstep/ai-assitant-blog/edit/main/content"
+    base: "https://github.com/watchstep/ai-assistant-blog/edit/main/content"
