@@ -2,7 +2,7 @@
 
 ![AI Assistant Blog](https://img.shields.io/badge/Hugo-Hextra-blue?style=for-the-badge&logo=hugo)
 
-[🌐 Demo ↗](https://watchstep.github.io/ai-assitant-blog/)
+[🌐 Demo ↗](https://watchstep.github.io/ai-assistant-blog/)
 
 ## 🚀 Start the server
 
