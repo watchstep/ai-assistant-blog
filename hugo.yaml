@@ -47,6 +47,7 @@ params:
       repoId: R_kgDOPQg7uA
       category: Announcements
       categoryId: DIC_kwDOPQg7uM4CtQve"
+      theme: preferred_color_scheme
 
   navbar:
     displayTitle: true
